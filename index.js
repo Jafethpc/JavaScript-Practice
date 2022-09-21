@@ -1,9 +1,9 @@
-// // Split words and put them into an array
+// 1.
 // function stringToArray(string) {
 //   return string.split(" ");
 // }
 
-// // Grabs any string and multiplies it by 25 with it set as a default parameter
+// 2.
 // function billboardCost(name, b = 25) {
 //   let price = 0;
 //   for (let i = 0; i < name.length; i++) price += b;
@@ -12,7 +12,7 @@
 
 // billboardCost("Hector Pacheco-Campos");
 
-// // Removes every even index in an array
+// 3.
 // const arr = [1, 2, 3, 4, 5, 6];
 
 // const x = arr.filter((element, index) => {
@@ -21,7 +21,7 @@
 
 // console.log(x);
 
-// // Checks if a number is less than 5, if it is then make it 0, if its greater than, make it 1
+// 4.
 // const x = "232183703".split("");
 
 // x.forEach(function (element, index) {
@@ -30,7 +30,7 @@
 
 // console.log(x.join(""));
 
-// // Makes every "T" into a "U" inside a string
+// 5.
 // const x = "ABTUT".split("");
 
 // x.forEach((element, index) => {
